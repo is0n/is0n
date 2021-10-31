@@ -4,6 +4,7 @@
 
 ![is0n's GitHub Stats](https://github-readme-stats.vercel.app/api?username=is0n&show_icons=true&theme=nord)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=is0n&repo=fm-nvim&theme=nord)
+![fm-nvim](https://github-readme-stats.vercel.app/api/pin/?username=is0n&repo=fm-nvim&theme=nord)
+![jaq-nvim](https://github-readme-stats.vercel.app/api/pin/?username=is0n&repo=jaq-nvim&theme=nord)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is0n&layout=compact&theme=nord)
